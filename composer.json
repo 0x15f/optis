@@ -1,0 +1,12 @@
+{
+  "name": "lynndigital/optis",
+  "description": "A PHP block-chain implementation",
+  "type": "library",
+  "license": "Apache-2.0",
+  "autoload": {
+    "classmap": ["./"]
+  },
+  "require": {
+    "react/http": "^0.8.3"
+  }
+}
